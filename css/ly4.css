@@ -1,0 +1,198 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main {
+    background-color: dimgrey;
+    padding: 0px 0px 0px 0px;
+}
+
+.top {
+    background-color: black;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.flexbox {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.box1 {
+    display: block;
+    box-sizing: border-box;
+    width: 65%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tab {
+    background-color: darkgray;
+    margin-left: 20px;
+    height: 30px;
+    margin-bottom: 10px;
+
+}
+
+.smallflex {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.box3 {
+    display: block;
+    box-sizing: border-box;
+    width: 65%;
+
+}
+
+.smboxflex {
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.smbox1 {
+    display: block;
+    width: 33.33%;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+.content {
+    background-color: aqua;
+    height: 30px;
+}
+
+.content1 {
+    background-color: rgb(171, 230, 230);
+    height: 170px;
+}
+
+.text {
+    border: 2px solid black;
+    height: 25px;
+}
+
+.borderline {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+
+}
+
+.line {
+    background-color: black;
+    height: 2px;
+}
+
+.Box {
+    background-color: blue;
+    height: 100px;
+}
+
+.box4 {
+    display: block;
+    box-sizing: border-box;
+    width: 35%;
+}
+
+.smbox2 {
+    border: 2px solid black;
+    height: 700px;
+}
+
+.box2 {
+    display: block;
+    box-sizing: border-box;
+    width: 35%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tab2 {
+    background-color: darkgray;
+
+    height: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    height: 300px;
+}
+
+.tab3 {
+    background-color: darkgray;
+
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+
+}
+
+.box2flex {
+    display: flex;
+    box-sizing: border-box;
+
+}
+
+.box5 {
+    display: block;
+    width: 100%;
+    margin-right: 20px;
+
+}
+
+.imgflex {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.boxleft {
+    display: block;
+    width: 35%;
+
+}
+
+.img {
+    background-color: aqua;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.boxright {
+    display: block;
+    width: 65%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: -20px;
+}
+
+.text2 {
+    border: 2px solid black;
+    height: 150px;
+    margin-bottom: 20px;
+
+
+}
+
+
+.line2 {
+    background-color: black;
+    height: 2px;
+
+    margin-bottom: 20px;
+
+}
+
+
+.footer {
+    background-color: rgb(147, 146, 146);
+    height: 30px;
+    margin-bottom: 0px;
+}
