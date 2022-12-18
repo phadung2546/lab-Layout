@@ -1,0 +1,78 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main {
+    background-color: dimgrey;
+    padding: 10px 30px 10px 30px;
+
+}
+
+.Logo {
+    background-color: darkgray;
+    width: 750px;
+    height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.Navi {
+    background-color: darkgray;
+    width: 750px;
+    height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.Header{
+    background-color: aqua;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.intro{
+    background-color: burlywood;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.b1{
+    background-color:brown;
+    width: 500px;
+    height: 500px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b2{
+    background-color:brown;
+    width: 500px;
+    height: 500px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b3{
+    background-color:brown;
+    width: 500px;
+    height: 500px;
+    
+    margin-bottom: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footer{
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+}

@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+
+.main{
+    background-color: dimgrey;
+    padding: 10px 30px 10px 30px;
+
+}
+
+
+
+.logo {
+    background-color: darkgray;
+    width: 50%;
+    height: 70px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.Navi {
+    background-color: darkgray;
+    width: 50%;
+    height: 70px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.flexbox{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.box1{
+    display: block;
+    box-sizing: border-box;
+    width: 25%;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    margin-bottom: 20px;
+    
+}
+.content{
+    background-color: aqua;
+    border:2px solid black;
+    height: 250px;
+   
+}
+.flexbox2{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.Box2{
+    display: block;
+    box-sizing: border-box;
+    width: 33.33%;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    margin-bottom: 20px;
+   
+}
+.content2{
+    background-color: blueviolet;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    background-color: chartreuse;
+    text-align: center;
+    padding: 5px;
+}

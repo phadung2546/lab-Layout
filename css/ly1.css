@@ -1,0 +1,59 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    background-color: dimgrey;
+    padding: 10px 30px 10px 30px;
+    
+}
+.Logo{
+    background-color:darkgray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.Navi{
+    background-color:rgb(189, 217, 46);
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+   
+}
+.Header{
+    display: flex;
+    background-color:rgb(34, 214, 43);
+    height: 50px;
+    margin-bottom: 10px;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.SlideBar{
+    background-color:rgb(32, 57, 219);
+    height: 300px;
+    width: 300px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Body{
+    background-color:rgb(74, 39, 122);
+    margin-bottom: 10px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    
+}
+.Footer{
+    background-color:rgb(236, 43, 101);
+    text-align: center;
+    height: 20px;
+   
+}
